@@ -33,6 +33,6 @@ function divide(){
 
 function multiply(){
     let num3 = num1*num2
-     console.log(num3)
+    //  console.log(num3)
      sumEl.textContent = "Sum :" + num3
 }
